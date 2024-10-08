@@ -1,0 +1,20 @@
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/debug-1.9.2/ext/debug
+/Users/homefolder/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-1v8x32 sitelibdir\=./.gem.20241008-79843-1v8x32 clean
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-1v8x32 sitelibdir\=./.gem.20241008-79843-1v8x32
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-1v8x32 sitelibdir\=./.gem.20241008-79843-1v8x32 install
+/usr/local/bin/ginstall -c -m 0755 debug.bundle ./.gem.20241008-79843-1v8x32/debug
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-1v8x32 sitelibdir\=./.gem.20241008-79843-1v8x32 clean

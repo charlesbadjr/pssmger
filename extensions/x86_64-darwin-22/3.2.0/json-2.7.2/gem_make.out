@@ -1,0 +1,16 @@
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/json-2.7.2/ext/json
+/Users/homefolder/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-gro2ps sitelibdir\=./.gem.20241008-79843-gro2ps clean
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-gro2ps sitelibdir\=./.gem.20241008-79843-gro2ps
+make: Nothing to be done for `all'.
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-gro2ps sitelibdir\=./.gem.20241008-79843-gro2ps install
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-gro2ps sitelibdir\=./.gem.20241008-79843-gro2ps clean

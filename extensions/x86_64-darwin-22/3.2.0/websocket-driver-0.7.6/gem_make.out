@@ -1,0 +1,19 @@
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/homefolder/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-8pvvfh sitelibdir\=./.gem.20241008-79843-8pvvfh clean
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-8pvvfh sitelibdir\=./.gem.20241008-79843-8pvvfh
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-8pvvfh sitelibdir\=./.gem.20241008-79843-8pvvfh install
+/usr/local/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20241008-79843-8pvvfh
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-8pvvfh sitelibdir\=./.gem.20241008-79843-8pvvfh clean

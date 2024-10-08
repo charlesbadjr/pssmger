@@ -1,0 +1,19 @@
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/stringio-3.1.1/ext/stringio
+/Users/homefolder/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-iz6odu sitelibdir\=./.gem.20241008-79843-iz6odu clean
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-iz6odu sitelibdir\=./.gem.20241008-79843-iz6odu
+compiling stringio.c
+linking shared-object stringio.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-iz6odu sitelibdir\=./.gem.20241008-79843-iz6odu install
+/usr/local/bin/ginstall -c -m 0755 stringio.bundle ./.gem.20241008-79843-iz6odu
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-iz6odu sitelibdir\=./.gem.20241008-79843-iz6odu clean

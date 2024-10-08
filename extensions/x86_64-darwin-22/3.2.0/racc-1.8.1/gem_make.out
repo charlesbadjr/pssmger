@@ -1,0 +1,19 @@
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/racc-1.8.1/ext/racc/cparse
+/Users/homefolder/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-hkxxoc sitelibdir\=./.gem.20241008-79843-hkxxoc clean
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-hkxxoc sitelibdir\=./.gem.20241008-79843-hkxxoc
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-hkxxoc sitelibdir\=./.gem.20241008-79843-hkxxoc install
+/usr/local/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20241008-79843-hkxxoc/racc
+
+current directory: /Users/homefolder/Desktop/rubycode/passmanager/passwordmanager/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241008-79843-hkxxoc sitelibdir\=./.gem.20241008-79843-hkxxoc clean
